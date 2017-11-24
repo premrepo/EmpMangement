@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+body{
+	font-size: 12px;
+}
+h5 {
+	color: #078;
+}
+
+.form-control{
+	height: 25px;
+	font-size:12px;
+}
+
+row{
+	color: #ffffff;
+}
